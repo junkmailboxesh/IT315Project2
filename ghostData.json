@@ -1,6 +1,5 @@
 {
-
-	"Ghosts":
+"Ghosts":
 [
 {
 	GhostName: "Banshee",
@@ -13,13 +12,13 @@
 	MaxHunt: "50",
 	MinHunt: "50",
 	WikiLink: "https://phasmophobia.fandom.com/wiki/Banshee"
-}
+},
 {
-	GhostName: "Demon",
-	EvidOne: "Freezing Temps",
-	EvidTwo: "Ultra-Violet",
-	EvidThree: "Ghost Writing",
-	Strength: "Can hunt at any sanity level, has lower hunt cooldown.",
+GhostName: "Demon",
+EvidOne: "Freezing Temps",
+EvidTwo: "Ultra-Violet",
+EvidThree: "Ghost Writing",
+Strength: "Can hunt at any sanity level, has lower hunt cooldown.",
 	Weakness: "Crucifixes gain more range.",
 	Speed: "1.7",
 	MaxHunt: "100",
@@ -37,7 +36,7 @@
 	MaxHunt: "40",
 	MinHunt: "40",
 	WikiLink: "https://phasmophobia.fandom.com/wiki/Deogen"
-}
+},
 {
 	GhostName: "Goryo",
 	EvidOne: "EMF-5",
@@ -49,7 +48,7 @@
 	MaxHunt: "50",
 	MinHunt: "50",
 	WikiLink: "https://phasmophobia.fandom.com/wiki/Goryo"
-}
+},
 {
 	GhostName: "Hantu",
 	EvidOne: "Ghost Orb",
@@ -61,7 +60,7 @@
 	MaxHunt: "50",
 	MinHunt: "50",
 	WikiLink: "https://phasmophobia.fandom.com/wiki/Hantu"
-}
+},
 {
 	GhostName: "Jinn",
 	EvidOne: "EMF-5",
@@ -73,7 +72,7 @@
 	MaxHunt: "50",
 	MinHunt: "50",
 	WikiLink: "https://phasmophobia.fandom.com/wiki/Jinn"
-}
+},
 {
 	GhostName: "Mare",
 	EvidOne: "Ghost Orb",
@@ -85,7 +84,7 @@
 	MaxHunt: "60",
 	MinHunt: "40",
 	WikiLink: "https://phasmophobia.fandom.com/wiki/Mare"
-}
+},
 {
 	GhostName: "Moroi",
 	EvidOne: "Spirit Box",
@@ -97,7 +96,7 @@
 	MaxHunt: "50",
 	MinHunt: "50",
 	WikiLink: "https://phasmophobia.fandom.com/wiki/Moroi"
-}
+},
 {
 	GhostName: "Myling",
 	EvidOne: "EMF-5",
@@ -121,7 +120,7 @@
 	MaxHunt: "50",
 	MinHunt: "50",
 	WikiLink: "https://phasmophobia.fandom.com/wiki/Obake"
-}
+},
 {
 	GhostName: "Oni",
 	EvidOne: "EMF-5",
@@ -133,7 +132,7 @@
 	MaxHunt: "50",
 	MinHunt: "50",
 	WikiLink: "https://phasmophobia.fandom.com/wiki/Oni"
-}
+},
 {
 	GhostName: "Onryo",
 	EvidOne: "Ghost Orb",
@@ -145,7 +144,7 @@
 	MaxHunt: "100",
 	MinHunt: "60",
 	WikiLink: "https://phasmophobia.fandom.com/wiki/Onryo"
-}
+},
 {
 	GhostName: "Phantom",
 	EvidOne: "Spirit Box",
@@ -157,7 +156,7 @@
 	MaxHunt: "50",
 	MinHunt: "50",
 	WikiLink: "https://phasmophobia.fandom.com/wiki/Phantom"
-}
+},
 {
 	GhostName: "Poltergeist",
 	EvidOne: "Spirit Box",
@@ -169,7 +168,7 @@
 	MaxHunt: "50",
 	MinHunt: "50",
 	WikiLink: "https://phasmophobia.fandom.com/wiki/Poltergeist"
-}
+},
 {
 	GhostName: "Raiju",
 	EvidOne: "EMF-5",

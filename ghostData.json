@@ -1,3 +1,6 @@
+{
+
+	"Ghosts":
 [
 {
 	GhostName: "Banshee",
@@ -178,4 +181,7 @@
 	MaxHunt: "65",
 	MinHunt: "50",
 	WikiLink: "https://phasmophobia.fandom.com/wiki/Raiju"
+}
+],
+"Status":"Ok"
 }

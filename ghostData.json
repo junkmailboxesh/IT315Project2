@@ -2,16 +2,16 @@
 "Ghosts":
 [
 {
-GhostName: "Banshee",
-EvidOne: "Ghost Orb",
-EvidTwo: "Ultra-Violet",
-EvidThree: "D.O.T.S.",
-Strength: "Higher chance of performing singing events.",
-Weakness: "Targets only one player.",
-Speed: "1.7",
-MaxHunt: "50",
-MinHunt: "50",
-WikiLink: "https://phasmophobia.fandom.com/wiki/Banshee"
+"GhostName": "Banshee",
+"EvidOne": "Ghost Orb",
+"EvidTwo": "Ultra-Violet",
+"EvidThree": "D.O.T.S.",
+"Strength": "Higher chance of performing singing events.",
+"Weakness": "Targets only one player.",
+"Speed": "1.7",
+"MaxHunt": "50",
+"MinHunt": "50",
+"WikiLink": "https://phasmophobia.fandom.com/wiki/Banshee"
 },
 {
 GhostName: "Demon",
